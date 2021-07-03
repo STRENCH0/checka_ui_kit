@@ -1,5 +1,3 @@
-library checka_ui_kit;
-
 import 'package:flutter/widgets.dart';
 
 const DEFAULT_BORDER_RADIUS = 24.0;

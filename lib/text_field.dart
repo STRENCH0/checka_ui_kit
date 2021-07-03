@@ -1,5 +1,3 @@
-library checka_ui_kit;
-
 import 'package:flutter/material.dart';
 import '../constants.dart';
 
